@@ -1,6 +1,7 @@
 dist/
 coverage
 
+.rpt2_cache
 
 *~
 *.sw[mnpcod]
@@ -23,3 +24,6 @@ $RECYCLE.BIN/
 Thumbs.db
 UserInterfaceState.xcuserstate
 .env
+
+.editorconfig
+.npmrc
